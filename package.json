@@ -1,0 +1,23 @@
+{
+  "name": "fresh-harvest",
+  "version": "0.1.0",
+  "description": "Harvest your Harvest hours, and import fresh hours into Freshbooks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nomatteus/fresh-harvest.git"
+  },
+  "keywords": [
+    "freshbooks",
+    "harvest"
+  ],
+  "author": "Matthew Ruten",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nomatteus/fresh-harvest/issues"
+  },
+  "homepage": "https://github.com/nomatteus/fresh-harvest#readme"
+}
